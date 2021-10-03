@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.exe
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.deps.json
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.runtimeconfig.json
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.runtimeconfig.dev.json
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.dll
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.pdb
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.AssemblyInfo.cs
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.dll
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.pdb
+C:\Users\HP\source\repos\StackAndQueneLab\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.genruntimeconfig.cache

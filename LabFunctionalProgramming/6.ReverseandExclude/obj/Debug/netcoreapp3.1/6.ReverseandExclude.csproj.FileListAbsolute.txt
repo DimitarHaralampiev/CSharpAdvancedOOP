@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LabFunctionalProgramming\6.ReverseandExclude\bin\Debug\netcoreapp3.1\6.ReverseandExclude.exe
+C:\Users\HP\source\repos\LabFunctionalProgramming\6.ReverseandExclude\bin\Debug\netcoreapp3.1\6.ReverseandExclude.deps.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\6.ReverseandExclude\bin\Debug\netcoreapp3.1\6.ReverseandExclude.runtimeconfig.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\6.ReverseandExclude\bin\Debug\netcoreapp3.1\6.ReverseandExclude.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\6.ReverseandExclude\bin\Debug\netcoreapp3.1\6.ReverseandExclude.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\6.ReverseandExclude\bin\Debug\netcoreapp3.1\6.ReverseandExclude.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\6.ReverseandExclude\obj\Debug\netcoreapp3.1\6.ReverseandExclude.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\6.ReverseandExclude\obj\Debug\netcoreapp3.1\6.ReverseandExclude.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\6.ReverseandExclude\obj\Debug\netcoreapp3.1\6.ReverseandExclude.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabFunctionalProgramming\6.ReverseandExclude\obj\Debug\netcoreapp3.1\6.ReverseandExclude.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\6.ReverseandExclude\obj\Debug\netcoreapp3.1\6.ReverseandExclude.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\6.ReverseandExclude\obj\Debug\netcoreapp3.1\6.ReverseandExclude.genruntimeconfig.cache

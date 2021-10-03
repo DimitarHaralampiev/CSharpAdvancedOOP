@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\bin\Debug\netcoreapp3.1\Problem 4.EvenTimes.exe
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\bin\Debug\netcoreapp3.1\Problem 4.EvenTimes.deps.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\bin\Debug\netcoreapp3.1\Problem 4.EvenTimes.runtimeconfig.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\bin\Debug\netcoreapp3.1\Problem 4.EvenTimes.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\bin\Debug\netcoreapp3.1\Problem 4.EvenTimes.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\bin\Debug\netcoreapp3.1\Problem 4.EvenTimes.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\obj\Debug\netcoreapp3.1\Problem 4.EvenTimes.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\obj\Debug\netcoreapp3.1\Problem 4.EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\obj\Debug\netcoreapp3.1\Problem 4.EvenTimes.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\obj\Debug\netcoreapp3.1\Problem 4.EvenTimes.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\obj\Debug\netcoreapp3.1\Problem 4.EvenTimes.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\obj\Debug\netcoreapp3.1\Problem 4.EvenTimes.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 4.EvenTimes\obj\Debug\netcoreapp3.1\Problem 4.EvenTimes.genruntimeconfig.cache

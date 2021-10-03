@@ -1,0 +1,26 @@
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\HP\source\repos\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\HP\OneDrive\Работен плот\C# - Advanced\ExercisesPolymorphism\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache

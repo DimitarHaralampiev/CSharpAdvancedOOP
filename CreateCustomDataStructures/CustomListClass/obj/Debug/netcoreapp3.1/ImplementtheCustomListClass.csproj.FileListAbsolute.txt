@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\ImplementtheCustomListClass.exe
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\ImplementtheCustomListClass.deps.json
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\ImplementtheCustomListClass.runtimeconfig.json
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\ImplementtheCustomListClass.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\ImplementtheCustomListClass.dll
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\ImplementtheCustomListClass.pdb
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\ImplementtheCustomListClass.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\ImplementtheCustomListClass.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\ImplementtheCustomListClass.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\ImplementtheCustomListClass.AssemblyInfo.cs
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\ImplementtheCustomListClass.dll
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\ImplementtheCustomListClass.pdb
+C:\Users\HP\source\repos\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\ImplementtheCustomListClass.genruntimeconfig.cache

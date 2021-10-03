@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 2.SetsofElements\bin\Debug\netcoreapp3.1\Problem 2.SetsofElements.exe
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 2.SetsofElements\bin\Debug\netcoreapp3.1\Problem 2.SetsofElements.deps.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 2.SetsofElements\bin\Debug\netcoreapp3.1\Problem 2.SetsofElements.runtimeconfig.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 2.SetsofElements\bin\Debug\netcoreapp3.1\Problem 2.SetsofElements.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 2.SetsofElements\bin\Debug\netcoreapp3.1\Problem 2.SetsofElements.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 2.SetsofElements\bin\Debug\netcoreapp3.1\Problem 2.SetsofElements.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 2.SetsofElements\obj\Debug\netcoreapp3.1\Problem 2.SetsofElements.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 2.SetsofElements\obj\Debug\netcoreapp3.1\Problem 2.SetsofElements.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 2.SetsofElements\obj\Debug\netcoreapp3.1\Problem 2.SetsofElements.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 2.SetsofElements\obj\Debug\netcoreapp3.1\Problem 2.SetsofElements.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 2.SetsofElements\obj\Debug\netcoreapp3.1\Problem 2.SetsofElements.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 2.SetsofElements\obj\Debug\netcoreapp3.1\Problem 2.SetsofElements.genruntimeconfig.cache

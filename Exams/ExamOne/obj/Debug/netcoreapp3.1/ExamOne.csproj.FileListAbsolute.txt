@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Exams\ExamOne\bin\Debug\netcoreapp3.1\ExamOne.exe
+C:\Users\HP\source\repos\Exams\ExamOne\bin\Debug\netcoreapp3.1\ExamOne.deps.json
+C:\Users\HP\source\repos\Exams\ExamOne\bin\Debug\netcoreapp3.1\ExamOne.runtimeconfig.json
+C:\Users\HP\source\repos\Exams\ExamOne\bin\Debug\netcoreapp3.1\ExamOne.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Exams\ExamOne\bin\Debug\netcoreapp3.1\ExamOne.dll
+C:\Users\HP\source\repos\Exams\ExamOne\bin\Debug\netcoreapp3.1\ExamOne.pdb
+C:\Users\HP\source\repos\Exams\ExamOne\obj\Debug\netcoreapp3.1\ExamOne.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Exams\ExamOne\obj\Debug\netcoreapp3.1\ExamOne.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Exams\ExamOne\obj\Debug\netcoreapp3.1\ExamOne.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Exams\ExamOne\obj\Debug\netcoreapp3.1\ExamOne.AssemblyInfo.cs
+C:\Users\HP\source\repos\Exams\ExamOne\obj\Debug\netcoreapp3.1\ExamOne.dll
+C:\Users\HP\source\repos\Exams\ExamOne\obj\Debug\netcoreapp3.1\ExamOne.pdb
+C:\Users\HP\source\repos\Exams\ExamOne\obj\Debug\netcoreapp3.1\ExamOne.genruntimeconfig.cache

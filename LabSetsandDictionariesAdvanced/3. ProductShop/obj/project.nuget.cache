@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LiVgx5XdDk/TKxyoXGMdzW9pWlF28jEqzq9ybae/Sltb2QoP4TyZqz60ubL5OFQKA8CQHvyjSyBnhfjzUSpqfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\LabSetsandDictionariesAdvanced\\3. ProductShop\\3. ProductShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

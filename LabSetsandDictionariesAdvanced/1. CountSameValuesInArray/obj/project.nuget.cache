@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSLLriWfTya40dtvA1uDKEFmW1jxvAQYprpy0w7Dj46FJkvJVPiTWkaQ2sxZ5od2IPIIXCGUcHmVp1wy7hMf/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\LabSetsandDictionariesAdvanced\\1. CountSameValuesInArray\\1. CountSameValuesInArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

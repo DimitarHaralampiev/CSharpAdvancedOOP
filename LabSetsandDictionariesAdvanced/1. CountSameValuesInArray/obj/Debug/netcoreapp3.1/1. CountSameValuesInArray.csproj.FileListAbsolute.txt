@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\bin\Debug\netcoreapp3.1\1. CountSameValuesInArray.exe
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\obj\Debug\netcoreapp3.1\1. CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\obj\Debug\netcoreapp3.1\1. CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\bin\Debug\netcoreapp3.1\1. CountSameValuesInArray.deps.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\bin\Debug\netcoreapp3.1\1. CountSameValuesInArray.runtimeconfig.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\bin\Debug\netcoreapp3.1\1. CountSameValuesInArray.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\bin\Debug\netcoreapp3.1\1. CountSameValuesInArray.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\bin\Debug\netcoreapp3.1\1. CountSameValuesInArray.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\obj\Debug\netcoreapp3.1\1. CountSameValuesInArray.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\obj\Debug\netcoreapp3.1\1. CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\obj\Debug\netcoreapp3.1\1. CountSameValuesInArray.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\obj\Debug\netcoreapp3.1\1. CountSameValuesInArray.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\1. CountSameValuesInArray\obj\Debug\netcoreapp3.1\1. CountSameValuesInArray.genruntimeconfig.cache

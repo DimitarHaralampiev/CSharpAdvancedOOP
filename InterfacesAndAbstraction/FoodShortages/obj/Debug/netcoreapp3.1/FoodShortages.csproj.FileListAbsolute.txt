@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\bin\Debug\netcoreapp3.1\FoodShortages.exe
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\bin\Debug\netcoreapp3.1\FoodShortages.deps.json
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\bin\Debug\netcoreapp3.1\FoodShortages.runtimeconfig.json
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\bin\Debug\netcoreapp3.1\FoodShortages.runtimeconfig.dev.json
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\bin\Debug\netcoreapp3.1\FoodShortages.dll
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\bin\Debug\netcoreapp3.1\FoodShortages.pdb
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\obj\Debug\netcoreapp3.1\FoodShortages.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\obj\Debug\netcoreapp3.1\FoodShortages.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\obj\Debug\netcoreapp3.1\FoodShortages.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\obj\Debug\netcoreapp3.1\FoodShortages.AssemblyInfo.cs
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\obj\Debug\netcoreapp3.1\FoodShortages.dll
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\obj\Debug\netcoreapp3.1\FoodShortages.pdb
+C:\Users\HP\source\repos\InterfacesAndAbstraction\FoodShortages\obj\Debug\netcoreapp3.1\FoodShortages.genruntimeconfig.cache

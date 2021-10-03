@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\bin\Debug\netcoreapp3.1\SimpleCalc.exe
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\bin\Debug\netcoreapp3.1\SimpleCalc.deps.json
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\bin\Debug\netcoreapp3.1\SimpleCalc.runtimeconfig.json
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\bin\Debug\netcoreapp3.1\SimpleCalc.runtimeconfig.dev.json
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\bin\Debug\netcoreapp3.1\SimpleCalc.dll
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\bin\Debug\netcoreapp3.1\SimpleCalc.pdb
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\obj\Debug\netcoreapp3.1\SimpleCalc.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\obj\Debug\netcoreapp3.1\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\obj\Debug\netcoreapp3.1\SimpleCalc.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\obj\Debug\netcoreapp3.1\SimpleCalc.AssemblyInfo.cs
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\obj\Debug\netcoreapp3.1\SimpleCalc.dll
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\obj\Debug\netcoreapp3.1\SimpleCalc.pdb
+C:\Users\HP\source\repos\StackAndQueneLab\SimpleCalc\obj\Debug\netcoreapp3.1\SimpleCalc.genruntimeconfig.cache

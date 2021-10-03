@@ -1,0 +1,9 @@
+C:\Users\HP\Downloads\01. Database_Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\HP\Downloads\01. Database_Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\HP\Downloads\01. Database_Skeleton\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\HP\Downloads\01. Database_Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csprojAssemblyReference.cache
+C:\Users\HP\Downloads\01. Database_Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\01. Database_Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\01. Database_Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\HP\Downloads\01. Database_Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\HP\Downloads\01. Database_Skeleton\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb

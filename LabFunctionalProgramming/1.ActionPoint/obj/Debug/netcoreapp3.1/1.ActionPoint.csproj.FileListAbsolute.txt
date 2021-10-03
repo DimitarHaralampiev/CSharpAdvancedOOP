@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LabFunctionalProgramming\1.ActionPoint\bin\Debug\netcoreapp3.1\1.ActionPoint.exe
+C:\Users\HP\source\repos\LabFunctionalProgramming\1.ActionPoint\bin\Debug\netcoreapp3.1\1.ActionPoint.deps.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\1.ActionPoint\bin\Debug\netcoreapp3.1\1.ActionPoint.runtimeconfig.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\1.ActionPoint\bin\Debug\netcoreapp3.1\1.ActionPoint.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\1.ActionPoint\bin\Debug\netcoreapp3.1\1.ActionPoint.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\1.ActionPoint\bin\Debug\netcoreapp3.1\1.ActionPoint.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\1.ActionPoint\obj\Debug\netcoreapp3.1\1.ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\1.ActionPoint\obj\Debug\netcoreapp3.1\1.ActionPoint.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\1.ActionPoint\obj\Debug\netcoreapp3.1\1.ActionPoint.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabFunctionalProgramming\1.ActionPoint\obj\Debug\netcoreapp3.1\1.ActionPoint.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\1.ActionPoint\obj\Debug\netcoreapp3.1\1.ActionPoint.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\1.ActionPoint\obj\Debug\netcoreapp3.1\1.ActionPoint.genruntimeconfig.cache

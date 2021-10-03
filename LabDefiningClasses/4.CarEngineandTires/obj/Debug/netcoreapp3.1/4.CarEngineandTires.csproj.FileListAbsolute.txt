@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LabDefiningClasses\4.CarEngineandTires\bin\Debug\netcoreapp3.1\4.CarEngineandTires.exe
+C:\Users\HP\source\repos\LabDefiningClasses\4.CarEngineandTires\bin\Debug\netcoreapp3.1\4.CarEngineandTires.deps.json
+C:\Users\HP\source\repos\LabDefiningClasses\4.CarEngineandTires\bin\Debug\netcoreapp3.1\4.CarEngineandTires.runtimeconfig.json
+C:\Users\HP\source\repos\LabDefiningClasses\4.CarEngineandTires\bin\Debug\netcoreapp3.1\4.CarEngineandTires.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabDefiningClasses\4.CarEngineandTires\bin\Debug\netcoreapp3.1\4.CarEngineandTires.dll
+C:\Users\HP\source\repos\LabDefiningClasses\4.CarEngineandTires\bin\Debug\netcoreapp3.1\4.CarEngineandTires.pdb
+C:\Users\HP\source\repos\LabDefiningClasses\4.CarEngineandTires\obj\Debug\netcoreapp3.1\4.CarEngineandTires.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabDefiningClasses\4.CarEngineandTires\obj\Debug\netcoreapp3.1\4.CarEngineandTires.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabDefiningClasses\4.CarEngineandTires\obj\Debug\netcoreapp3.1\4.CarEngineandTires.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabDefiningClasses\4.CarEngineandTires\obj\Debug\netcoreapp3.1\4.CarEngineandTires.dll
+C:\Users\HP\source\repos\LabDefiningClasses\4.CarEngineandTires\obj\Debug\netcoreapp3.1\4.CarEngineandTires.pdb
+C:\Users\HP\source\repos\LabDefiningClasses\4.CarEngineandTires\obj\Debug\netcoreapp3.1\4.CarEngineandTires.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\bin\Debug\netcoreapp3.1\7.PredicateforNames.exe
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\bin\Debug\netcoreapp3.1\7.PredicateforNames.deps.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\bin\Debug\netcoreapp3.1\7.PredicateforNames.runtimeconfig.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\bin\Debug\netcoreapp3.1\7.PredicateforNames.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\bin\Debug\netcoreapp3.1\7.PredicateforNames.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\bin\Debug\netcoreapp3.1\7.PredicateforNames.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\obj\Debug\netcoreapp3.1\7.PredicateforNames.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\obj\Debug\netcoreapp3.1\7.PredicateforNames.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\obj\Debug\netcoreapp3.1\7.PredicateforNames.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\obj\Debug\netcoreapp3.1\7.PredicateforNames.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\obj\Debug\netcoreapp3.1\7.PredicateforNames.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\obj\Debug\netcoreapp3.1\7.PredicateforNames.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\7.PredicateforNames\obj\Debug\netcoreapp3.1\7.PredicateforNames.genruntimeconfig.cache

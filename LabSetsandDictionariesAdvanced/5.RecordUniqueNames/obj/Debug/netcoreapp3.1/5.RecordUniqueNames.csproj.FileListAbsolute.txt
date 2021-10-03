@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\5.RecordUniqueNames\bin\Debug\netcoreapp3.1\5.RecordUniqueNames.exe
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\5.RecordUniqueNames\bin\Debug\netcoreapp3.1\5.RecordUniqueNames.deps.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\5.RecordUniqueNames\bin\Debug\netcoreapp3.1\5.RecordUniqueNames.runtimeconfig.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\5.RecordUniqueNames\bin\Debug\netcoreapp3.1\5.RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\5.RecordUniqueNames\bin\Debug\netcoreapp3.1\5.RecordUniqueNames.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\5.RecordUniqueNames\bin\Debug\netcoreapp3.1\5.RecordUniqueNames.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\5.RecordUniqueNames\obj\Debug\netcoreapp3.1\5.RecordUniqueNames.genruntimeconfig.cache

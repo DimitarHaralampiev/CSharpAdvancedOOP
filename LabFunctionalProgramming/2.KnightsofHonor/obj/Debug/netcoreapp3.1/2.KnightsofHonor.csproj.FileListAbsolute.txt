@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LabFunctionalProgramming\2.KnightsofHonor\bin\Debug\netcoreapp3.1\2.KnightsofHonor.exe
+C:\Users\HP\source\repos\LabFunctionalProgramming\2.KnightsofHonor\bin\Debug\netcoreapp3.1\2.KnightsofHonor.deps.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\2.KnightsofHonor\bin\Debug\netcoreapp3.1\2.KnightsofHonor.runtimeconfig.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\2.KnightsofHonor\bin\Debug\netcoreapp3.1\2.KnightsofHonor.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\2.KnightsofHonor\bin\Debug\netcoreapp3.1\2.KnightsofHonor.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\2.KnightsofHonor\bin\Debug\netcoreapp3.1\2.KnightsofHonor.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\2.KnightsofHonor\obj\Debug\netcoreapp3.1\2.KnightsofHonor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\2.KnightsofHonor\obj\Debug\netcoreapp3.1\2.KnightsofHonor.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\2.KnightsofHonor\obj\Debug\netcoreapp3.1\2.KnightsofHonor.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabFunctionalProgramming\2.KnightsofHonor\obj\Debug\netcoreapp3.1\2.KnightsofHonor.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\2.KnightsofHonor\obj\Debug\netcoreapp3.1\2.KnightsofHonor.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\2.KnightsofHonor\obj\Debug\netcoreapp3.1\2.KnightsofHonor.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 3.Periodic able\bin\Debug\netcoreapp3.1\Problem 3.Periodic able.exe
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 3.Periodic able\bin\Debug\netcoreapp3.1\Problem 3.Periodic able.deps.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 3.Periodic able\bin\Debug\netcoreapp3.1\Problem 3.Periodic able.runtimeconfig.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 3.Periodic able\bin\Debug\netcoreapp3.1\Problem 3.Periodic able.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 3.Periodic able\bin\Debug\netcoreapp3.1\Problem 3.Periodic able.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 3.Periodic able\bin\Debug\netcoreapp3.1\Problem 3.Periodic able.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 3.Periodic able\obj\Debug\netcoreapp3.1\Problem 3.Periodic able.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 3.Periodic able\obj\Debug\netcoreapp3.1\Problem 3.Periodic able.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 3.Periodic able\obj\Debug\netcoreapp3.1\Problem 3.Periodic able.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 3.Periodic able\obj\Debug\netcoreapp3.1\Problem 3.Periodic able.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 3.Periodic able\obj\Debug\netcoreapp3.1\Problem 3.Periodic able.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 3.Periodic able\obj\Debug\netcoreapp3.1\Problem 3.Periodic able.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\bin\Debug\netcoreapp3.1\5.FilterbyAge.exe
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\bin\Debug\netcoreapp3.1\5.FilterbyAge.deps.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\bin\Debug\netcoreapp3.1\5.FilterbyAge.runtimeconfig.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\bin\Debug\netcoreapp3.1\5.FilterbyAge.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\bin\Debug\netcoreapp3.1\5.FilterbyAge.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\bin\Debug\netcoreapp3.1\5.FilterbyAge.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\obj\Debug\netcoreapp3.1\5.FilterbyAge.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\obj\Debug\netcoreapp3.1\5.FilterbyAge.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\obj\Debug\netcoreapp3.1\5.FilterbyAge.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\obj\Debug\netcoreapp3.1\5.FilterbyAge.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\obj\Debug\netcoreapp3.1\5.FilterbyAge.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\obj\Debug\netcoreapp3.1\5.FilterbyAge.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.ilterbyAge\obj\Debug\netcoreapp3.1\5.FilterbyAge.genruntimeconfig.cache

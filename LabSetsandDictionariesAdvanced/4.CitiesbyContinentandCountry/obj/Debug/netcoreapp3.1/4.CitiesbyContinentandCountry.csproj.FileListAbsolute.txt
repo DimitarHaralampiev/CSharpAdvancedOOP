@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\bin\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.exe
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\obj\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\obj\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\bin\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.deps.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\bin\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.runtimeconfig.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\bin\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\bin\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\bin\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\obj\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\obj\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\obj\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\obj\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\4.CitiesbyContinentandCountry\obj\Debug\netcoreapp3.1\4.CitiesbyContinentandCountry.genruntimeconfig.cache

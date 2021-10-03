@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LabFunctionalProgramming\8.CustomComparator\bin\Debug\netcoreapp3.1\8.CustomComparator.exe
+C:\Users\HP\source\repos\LabFunctionalProgramming\8.CustomComparator\bin\Debug\netcoreapp3.1\8.CustomComparator.deps.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\8.CustomComparator\bin\Debug\netcoreapp3.1\8.CustomComparator.runtimeconfig.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\8.CustomComparator\bin\Debug\netcoreapp3.1\8.CustomComparator.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\8.CustomComparator\bin\Debug\netcoreapp3.1\8.CustomComparator.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\8.CustomComparator\bin\Debug\netcoreapp3.1\8.CustomComparator.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabFunctionalProgramming\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\8.CustomComparator\obj\Debug\netcoreapp3.1\8.CustomComparator.genruntimeconfig.cache

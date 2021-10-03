@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LabFunctionalProgramming\11PartyReservationFilterModule\bin\Debug\netcoreapp3.1\11PartyReservationFilterModule.exe
+C:\Users\HP\source\repos\LabFunctionalProgramming\11PartyReservationFilterModule\bin\Debug\netcoreapp3.1\11PartyReservationFilterModule.deps.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\11PartyReservationFilterModule\bin\Debug\netcoreapp3.1\11PartyReservationFilterModule.runtimeconfig.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\11PartyReservationFilterModule\bin\Debug\netcoreapp3.1\11PartyReservationFilterModule.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\11PartyReservationFilterModule\bin\Debug\netcoreapp3.1\11PartyReservationFilterModule.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\11PartyReservationFilterModule\bin\Debug\netcoreapp3.1\11PartyReservationFilterModule.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\11PartyReservationFilterModule\obj\Debug\netcoreapp3.1\11PartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\11PartyReservationFilterModule\obj\Debug\netcoreapp3.1\11PartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\11PartyReservationFilterModule\obj\Debug\netcoreapp3.1\11PartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabFunctionalProgramming\11PartyReservationFilterModule\obj\Debug\netcoreapp3.1\11PartyReservationFilterModule.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\11PartyReservationFilterModule\obj\Debug\netcoreapp3.1\11PartyReservationFilterModule.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\11PartyReservationFilterModule\obj\Debug\netcoreapp3.1\11PartyReservationFilterModule.genruntimeconfig.cache

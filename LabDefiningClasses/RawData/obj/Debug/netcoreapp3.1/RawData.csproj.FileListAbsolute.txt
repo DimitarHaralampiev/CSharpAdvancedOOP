@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.exe
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.deps.json
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.json
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.dll
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\bin\Debug\netcoreapp3.1\RawData.pdb
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.dll
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.pdb
+C:\Users\HP\source\repos\LabDefiningClasses\RawData\obj\Debug\netcoreapp3.1\RawData.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.exe
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.deps.json
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.runtimeconfig.json
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.runtimeconfig.dev.json
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.dll
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\bin\Debug\netcoreapp3.1\5.SnakeMoves.pdb
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.AssemblyInfo.cs
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.dll
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.pdb
+C:\Users\HP\source\repos\La MultidimensionalArrays\5.SnakeMoves\obj\Debug\netcoreapp3.1\5.SnakeMoves.genruntimeconfig.cache

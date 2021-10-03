@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\bin\Debug\netcoreapp3.1\3. ProductShop.exe
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\obj\Debug\netcoreapp3.1\3. ProductShop.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\obj\Debug\netcoreapp3.1\3. ProductShop.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\obj\Debug\netcoreapp3.1\3. ProductShop.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\bin\Debug\netcoreapp3.1\3. ProductShop.deps.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\bin\Debug\netcoreapp3.1\3. ProductShop.runtimeconfig.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\bin\Debug\netcoreapp3.1\3. ProductShop.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\bin\Debug\netcoreapp3.1\3. ProductShop.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\bin\Debug\netcoreapp3.1\3. ProductShop.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\obj\Debug\netcoreapp3.1\3. ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\obj\Debug\netcoreapp3.1\3. ProductShop.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\obj\Debug\netcoreapp3.1\3. ProductShop.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\3. ProductShop\obj\Debug\netcoreapp3.1\3. ProductShop.genruntimeconfig.cache

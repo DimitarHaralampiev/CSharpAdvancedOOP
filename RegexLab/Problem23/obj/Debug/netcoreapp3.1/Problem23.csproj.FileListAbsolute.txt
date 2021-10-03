@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\RegexLab\Problem23\bin\Debug\netcoreapp3.1\Problem23.exe
+C:\Users\HP\source\repos\RegexLab\Problem23\bin\Debug\netcoreapp3.1\Problem23.deps.json
+C:\Users\HP\source\repos\RegexLab\Problem23\bin\Debug\netcoreapp3.1\Problem23.runtimeconfig.json
+C:\Users\HP\source\repos\RegexLab\Problem23\bin\Debug\netcoreapp3.1\Problem23.runtimeconfig.dev.json
+C:\Users\HP\source\repos\RegexLab\Problem23\bin\Debug\netcoreapp3.1\Problem23.dll
+C:\Users\HP\source\repos\RegexLab\Problem23\bin\Debug\netcoreapp3.1\Problem23.pdb
+C:\Users\HP\source\repos\RegexLab\Problem23\obj\Debug\netcoreapp3.1\Problem23.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\RegexLab\Problem23\obj\Debug\netcoreapp3.1\Problem23.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RegexLab\Problem23\obj\Debug\netcoreapp3.1\Problem23.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\RegexLab\Problem23\obj\Debug\netcoreapp3.1\Problem23.AssemblyInfo.cs
+C:\Users\HP\source\repos\RegexLab\Problem23\obj\Debug\netcoreapp3.1\Problem23.dll
+C:\Users\HP\source\repos\RegexLab\Problem23\obj\Debug\netcoreapp3.1\Problem23.pdb
+C:\Users\HP\source\repos\RegexLab\Problem23\obj\Debug\netcoreapp3.1\Problem23.genruntimeconfig.cache

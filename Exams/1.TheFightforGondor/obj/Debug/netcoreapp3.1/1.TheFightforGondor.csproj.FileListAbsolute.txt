@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\bin\Debug\netcoreapp3.1\1.TheFightforGondor.exe
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\bin\Debug\netcoreapp3.1\1.TheFightforGondor.deps.json
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\bin\Debug\netcoreapp3.1\1.TheFightforGondor.runtimeconfig.json
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\bin\Debug\netcoreapp3.1\1.TheFightforGondor.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\bin\Debug\netcoreapp3.1\1.TheFightforGondor.dll
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\bin\Debug\netcoreapp3.1\1.TheFightforGondor.pdb
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\obj\Debug\netcoreapp3.1\1.TheFightforGondor.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\obj\Debug\netcoreapp3.1\1.TheFightforGondor.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\obj\Debug\netcoreapp3.1\1.TheFightforGondor.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\obj\Debug\netcoreapp3.1\1.TheFightforGondor.AssemblyInfo.cs
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\obj\Debug\netcoreapp3.1\1.TheFightforGondor.dll
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\obj\Debug\netcoreapp3.1\1.TheFightforGondor.pdb
+C:\Users\HP\source\repos\Exams\1.TheFightforGondor\obj\Debug\netcoreapp3.1\1.TheFightforGondor.genruntimeconfig.cache

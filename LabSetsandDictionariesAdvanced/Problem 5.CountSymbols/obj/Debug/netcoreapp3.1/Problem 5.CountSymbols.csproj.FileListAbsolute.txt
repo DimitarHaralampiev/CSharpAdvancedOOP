@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 5.CountSymbols\bin\Debug\netcoreapp3.1\Problem 5.CountSymbols.exe
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 5.CountSymbols\bin\Debug\netcoreapp3.1\Problem 5.CountSymbols.deps.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 5.CountSymbols\bin\Debug\netcoreapp3.1\Problem 5.CountSymbols.runtimeconfig.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 5.CountSymbols\bin\Debug\netcoreapp3.1\Problem 5.CountSymbols.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 5.CountSymbols\bin\Debug\netcoreapp3.1\Problem 5.CountSymbols.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 5.CountSymbols\bin\Debug\netcoreapp3.1\Problem 5.CountSymbols.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 5.CountSymbols\obj\Debug\netcoreapp3.1\Problem 5.CountSymbols.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 5.CountSymbols\obj\Debug\netcoreapp3.1\Problem 5.CountSymbols.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 5.CountSymbols\obj\Debug\netcoreapp3.1\Problem 5.CountSymbols.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 5.CountSymbols\obj\Debug\netcoreapp3.1\Problem 5.CountSymbols.dll
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 5.CountSymbols\obj\Debug\netcoreapp3.1\Problem 5.CountSymbols.pdb
+C:\Users\HP\source\repos\LabSetsandDictionariesAdvanced\Problem 5.CountSymbols\obj\Debug\netcoreapp3.1\Problem 5.CountSymbols.genruntimeconfig.cache

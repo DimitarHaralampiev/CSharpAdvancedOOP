@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\bin\Debug\netcoreapp3.1\3.CountUppercaseWords.exe
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\bin\Debug\netcoreapp3.1\3.CountUppercaseWords.deps.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\bin\Debug\netcoreapp3.1\3.CountUppercaseWords.runtimeconfig.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\bin\Debug\netcoreapp3.1\3.CountUppercaseWords.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\bin\Debug\netcoreapp3.1\3.CountUppercaseWords.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\bin\Debug\netcoreapp3.1\3.CountUppercaseWords.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\obj\Debug\netcoreapp3.1\3.CountUppercaseWords.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\obj\Debug\netcoreapp3.1\3.CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\obj\Debug\netcoreapp3.1\3.CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\obj\Debug\netcoreapp3.1\3.CountUppercaseWords.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\obj\Debug\netcoreapp3.1\3.CountUppercaseWords.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\obj\Debug\netcoreapp3.1\3.CountUppercaseWords.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\3.CountUppercaseWords\obj\Debug\netcoreapp3.1\3.CountUppercaseWords.genruntimeconfig.cache

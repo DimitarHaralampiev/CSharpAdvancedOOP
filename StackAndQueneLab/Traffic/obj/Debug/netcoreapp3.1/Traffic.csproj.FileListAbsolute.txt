@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\StackAndQueneLab\Traffic\bin\Debug\netcoreapp3.1\Traffic.exe
+C:\Users\HP\source\repos\StackAndQueneLab\Traffic\bin\Debug\netcoreapp3.1\Traffic.deps.json
+C:\Users\HP\source\repos\StackAndQueneLab\Traffic\bin\Debug\netcoreapp3.1\Traffic.runtimeconfig.json
+C:\Users\HP\source\repos\StackAndQueneLab\Traffic\bin\Debug\netcoreapp3.1\Traffic.runtimeconfig.dev.json
+C:\Users\HP\source\repos\StackAndQueneLab\Traffic\bin\Debug\netcoreapp3.1\Traffic.dll
+C:\Users\HP\source\repos\StackAndQueneLab\Traffic\bin\Debug\netcoreapp3.1\Traffic.pdb
+C:\Users\HP\source\repos\StackAndQueneLab\Traffic\obj\Debug\netcoreapp3.1\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StackAndQueneLab\Traffic\obj\Debug\netcoreapp3.1\Traffic.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StackAndQueneLab\Traffic\obj\Debug\netcoreapp3.1\Traffic.AssemblyInfo.cs
+C:\Users\HP\source\repos\StackAndQueneLab\Traffic\obj\Debug\netcoreapp3.1\Traffic.dll
+C:\Users\HP\source\repos\StackAndQueneLab\Traffic\obj\Debug\netcoreapp3.1\Traffic.pdb
+C:\Users\HP\source\repos\StackAndQueneLab\Traffic\obj\Debug\netcoreapp3.1\Traffic.genruntimeconfig.cache

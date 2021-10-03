@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.AppliedArithmetics\bin\Debug\netcoreapp3.1\5.AppliedArithmetics.exe
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.AppliedArithmetics\bin\Debug\netcoreapp3.1\5.AppliedArithmetics.deps.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.AppliedArithmetics\bin\Debug\netcoreapp3.1\5.AppliedArithmetics.runtimeconfig.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.AppliedArithmetics\bin\Debug\netcoreapp3.1\5.AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.AppliedArithmetics\bin\Debug\netcoreapp3.1\5.AppliedArithmetics.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.AppliedArithmetics\bin\Debug\netcoreapp3.1\5.AppliedArithmetics.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\5.AppliedArithmetics\obj\Debug\netcoreapp3.1\5.AppliedArithmetics.genruntimeconfig.cache

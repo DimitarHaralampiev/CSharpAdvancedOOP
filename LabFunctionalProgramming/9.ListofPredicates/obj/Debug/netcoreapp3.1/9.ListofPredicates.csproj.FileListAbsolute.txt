@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\LabFunctionalProgramming\9.ListofPredicates\bin\Debug\netcoreapp3.1\9.ListofPredicates.exe
+C:\Users\HP\source\repos\LabFunctionalProgramming\9.ListofPredicates\bin\Debug\netcoreapp3.1\9.ListofPredicates.deps.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\9.ListofPredicates\bin\Debug\netcoreapp3.1\9.ListofPredicates.runtimeconfig.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\9.ListofPredicates\bin\Debug\netcoreapp3.1\9.ListofPredicates.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabFunctionalProgramming\9.ListofPredicates\bin\Debug\netcoreapp3.1\9.ListofPredicates.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\9.ListofPredicates\bin\Debug\netcoreapp3.1\9.ListofPredicates.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\9.ListofPredicates\obj\Debug\netcoreapp3.1\9.ListofPredicates.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\9.ListofPredicates\obj\Debug\netcoreapp3.1\9.ListofPredicates.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabFunctionalProgramming\9.ListofPredicates\obj\Debug\netcoreapp3.1\9.ListofPredicates.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabFunctionalProgramming\9.ListofPredicates\obj\Debug\netcoreapp3.1\9.ListofPredicates.dll
+C:\Users\HP\source\repos\LabFunctionalProgramming\9.ListofPredicates\obj\Debug\netcoreapp3.1\9.ListofPredicates.pdb
+C:\Users\HP\source\repos\LabFunctionalProgramming\9.ListofPredicates\obj\Debug\netcoreapp3.1\9.ListofPredicates.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.AssemblyInfo.cs
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\bin\Debug\netcoreapp3.1\2.CarExtension.exe
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\bin\Debug\netcoreapp3.1\2.CarExtension.deps.json
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\bin\Debug\netcoreapp3.1\2.CarExtension.runtimeconfig.json
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\bin\Debug\netcoreapp3.1\2.CarExtension.runtimeconfig.dev.json
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\bin\Debug\netcoreapp3.1\2.CarExtension.dll
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\bin\Debug\netcoreapp3.1\2.CarExtension.pdb
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.dll
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.pdb
+C:\Users\HP\source\repos\LabDefiningClasses\2.CarExtension\obj\Debug\netcoreapp3.1\2.CarExtension.genruntimeconfig.cache
